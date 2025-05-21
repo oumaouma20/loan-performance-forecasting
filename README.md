@@ -116,7 +116,7 @@ The Strategic Lending Acquisition case study reveals consistent monthly losses, 
 
 ## 📂 Project Deliverables
 
-- ✔️ Excel cleaning files
+- ✔️ SQL cleaning files
 - ✔️ Python forecasting notebook
 - ✔️ Power BI dashboard
 - ✔️ Forecast and insights documentation
